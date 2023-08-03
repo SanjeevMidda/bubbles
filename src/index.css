@@ -1,0 +1,10 @@
+* {
+  margin: 0px;
+  transition: all 1s;
+}
+
+.circle {
+  border-radius: 50%;
+  background-color: blue;
+  position: absolute;
+}
